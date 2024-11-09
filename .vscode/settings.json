@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "luyentap/Stack.demo",
+        "dsa.2/src",
+        "DSA1/src",
+        "DSA1/Stack.java",
+        "asm1/src"
+    ]
+}
